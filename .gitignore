@@ -1,1 +1,56 @@
+# ============================
+# NetBeans
+# ============================
 
+/nbproject/private/
+/nbproject/private.properties
+/nbproject/private.xml
+
+# Ignore sensitive project configuration
+/nbproject/project.properties
+
+# ============================
+# Build folders
+# ============================
+
+/build/
+/dist/
+
+# ============================
+# Compiled Java files
+# ============================
+
+*.class
+*.jar
+*.war
+*.ear
+
+# ============================
+# Logs
+# ============================
+
+*.log
+hs_err_pid*
+
+# ============================
+# OS files
+# ============================
+
+.DS_Store
+Thumbs.db
+
+# ============================
+# IDE files
+# ============================
+
+.idea/
+.vscode/
+*.iml
+
+# ============================
+# Temporary files
+# ============================
+
+*.tmp
+*.bak
+*.swp
